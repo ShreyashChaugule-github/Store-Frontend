@@ -1,6 +1,4 @@
 "use client"
-export const dynamic = "force-dynamic"; 
-
 import { useEffect, useState } from "react";
 import Container from "@/components/ui/container";
 import useCart from "@/hooks/use-cart";
